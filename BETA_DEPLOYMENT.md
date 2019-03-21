@@ -29,4 +29,22 @@
 
 ## 在Xcode上使用剛製作的Provisioning Profile
 
-1. Project Info -> General, Signing(Release) 選擇Download 
+1. Project Info -> General, Signing(Release) 選擇Download Profile 去下載剛才製作的Profile
+![](https://github.com/vincentLin113/learn-fastlane/blob/master/Screenshots/XcodeProvisioningSelection.png?raw=true)
+
+---
+
+## 完成Fastlane指令
+
+1. 前往[官方教學](https://fabric.io/kits/fastlane)下載你的Fastfile
+
+2. 解壓縮後放進你的目標專案資料夾
+
+3. 雙擊fastlane資料夾, 雙擊installer, 雙擊install 開始下載
+
+4. 開啟終端器, cd至目標專案資料夾
+
+5. 下命令
+```
+fastlane beta
+```
