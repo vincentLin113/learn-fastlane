@@ -36,11 +36,13 @@
 
 ## 完成Fastlane指令
 
-1. 前往[官方教學](https://fabric.io/kits/fastlane)下載你的Fastfile
+1. 前往[官方教學](https://fabric.io/kits/fastlane)設定平台iOS, 下載你的Fastfile
+![](https://github.com/vincentLin113/learn-fastlane/blob/master/Screenshots/GetYourFastfile.png?raw=true)
 
 2. 解壓縮後放進你的目標專案資料夾
 
 3. 雙擊fastlane資料夾, 雙擊installer, 雙擊install 開始下載
+![](https://github.com/vincentLin113/learn-fastlane/blob/master/Screenshots/FastlaneInstaller.png?raw=true)
 
 4. 開啟終端器, cd至目標專案資料夾
 
