@@ -2,7 +2,7 @@
 ## [Fastlane](https://fastlane.tools/) - The easiest way to build and release mobile apps.  
 
 - 自動獲取App截圖
-- 測試版App發佈
+- [測試版App發佈](https://github.com/vincentLin113/learn-fastlane/blob/master/BETA_DEPLOYMENT.md)
 - 上傳至App Store
 - 自動生產/更新憑證
 
